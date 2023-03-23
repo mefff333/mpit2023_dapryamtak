@@ -7,10 +7,14 @@
 
 Менеджер: Сандал-Александр Уаров
 
-Стек-технологий: Python, PyCharm, Flet(фреймворк на базе Flatter), Dart
+(Стек-технологий: Python, PyCharm, Flet(фреймворк на базе Flatter), Dart
 
 Как открыть:
 1. Заходим в папку через Python
 2. pip install flet
 3. py main.py
-4. Все!
+4. Все!)
+
+Стек-технологий: Andromo, Kotlin, Android Studio, HTML
+
+Установить apk файл
