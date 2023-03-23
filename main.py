@@ -114,7 +114,7 @@ def main(page: Page):
       ),
       content=CustomCheckBox(
         color=PINK,
-        label='Create interesting content!'
+        label='Полить цветы'
       )),
 
 
@@ -185,7 +185,7 @@ def main(page: Page):
           content=categories_card
         ),
         Container(height=20),
-        Text("Новости"),
+        Text("Список дел"),
         Stack(
           controls=[
             tasks,
